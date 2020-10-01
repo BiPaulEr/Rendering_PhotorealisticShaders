@@ -1,5 +1,6 @@
 # Rendering_PhotorealisticShaders
 Blinn &amp; Phong BRDF / Cook &amp; Toorance Microfacet BRDF / GGX MicroFacet BRDF with Smitch Approximation or with Schlick Approximation
+![](gif(3).gif)
 
 # Blinn & Phong BRDF
 <img src="https://github.com/BiPaulEr/Rendering_PhotorealisticShaders/blob/master/BlinnPhongBRDFdragon.JPG" alt ="Home Screen" style="float: lesft; margin-right: 10px;" width="300"/><img src="https://github.com/BiPaulEr/Rendering_PhotorealisticShaders/blob/master/BlinnPhongBRDFdragonZoom.JPG" alt ="Home Screen" style="float: lesft; margin-right: 10px;" width="400"/>
